@@ -36,7 +36,7 @@ const seaLife = {
         'notableexamples' : 'Giuseppe',
         'image' : 'https://www.earthday.org/wp-content/uploads/2020/02/Hammerhead2-website-1024x358.jpg'
     },
-    'Great white shark':{
+    'great white shark':{
         'speciesName' : 'Great white shark',
         'homeworld': 'Earth',
         'location' : 'Ocean',
@@ -54,7 +54,7 @@ const seaLife = {
         'notableexamples' : 'Bryan the Beachmaster, Shane, Darren',
         'image' : 'https://elephantseal.org/wp-content/uploads/2020/05/what-is.jpg'
     },
-    'Orcas':{
+    'orcas':{
         'speciesName' : 'Killer Whales',
         'homeworld': 'Earth',
         'location' : 'Ocean',
